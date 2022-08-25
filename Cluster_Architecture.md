@@ -1,6 +1,6 @@
 # Synthèse Cours 1 ( CKA )
 
-## Composant Kubernetes
+## Cluster Kubernetes
 
 * ```Kubelet``` et un agent qui s’exécute sur tous les nœuds d’un cluster
 
