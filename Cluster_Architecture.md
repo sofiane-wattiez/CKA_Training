@@ -4,13 +4,12 @@
 
 * ```Kubelet``` et un agent qui s’exécute sur tous les nœuds d’un cluster
 
-* ```Kubelet``` et comme le capitaine d’un navire qui gère les conteneurs
-
-* Ecoute les instruction du kube api server et gère les conteneur
+* ```Kubelet``` et comme le capitaine d’un navire qui gère les conteneursil  il écoute les instruction du kube api server et gère les conteneur
 
 * ```Kube-api``` récupère périodiquement les rapports d’état de kubelet pour surveiller l’état des nœuds
 
 * ```kube-scheduler``` : Est le responsable de la planification odes applications ou des containeur sur les nœuds
+
 * ```Kube Controller Manager``` :
 Nous avons différent contrôleur qui prenne en charge différentes fonction comme le contrôle des nœuds , réplication , contrôleur 
 
